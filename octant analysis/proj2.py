@@ -1235,7 +1235,6 @@ if select=="Browse File":
 
 
             # creating three lists l4,l5 & l6 which contains the values of U', V' & W'
-
             #********************   
             l4=[]
             for i in l1:
