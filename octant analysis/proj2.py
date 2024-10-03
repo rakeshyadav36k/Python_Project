@@ -113,8 +113,6 @@ if select=="Add path":
 
                 sheet.cell(row=1, column=11).value = "Octant"
 
-
-
                 for i in range(0,len(l1)):
                     if(l4[i]>0 and l5[i]>0):
                         if(l6[i]>0):
