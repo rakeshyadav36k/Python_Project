@@ -1261,7 +1261,6 @@ if select=="Browse File":
                 sheet.cell(row=i, column=10).value = format(l6[i-2],"0.3f")
 
             #************************************
-
             # here we have created a header "Octant" and print the values of octants in excel file
 
             sheet.cell(row=1, column=11).value = "Octant"
