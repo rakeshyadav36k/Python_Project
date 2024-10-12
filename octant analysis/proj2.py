@@ -212,7 +212,7 @@ if select=="Add path":
 
                 mod = int(mod_input)    # this is a user defined mod value
                 if(len(l7)%mod!=0):           
-                    p = len(l7)//mod + 1           #variable p is no of partitions
+                    p = len(l7)//mod + 1        #variable p is no of partitions
                 else:
                     p = len(l7)//mod 
 
